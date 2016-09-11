@@ -1,2 +1,2 @@
 # test-hodari-digital
-Clone, open index.html.
+Clone Repo, open index.html. :)
